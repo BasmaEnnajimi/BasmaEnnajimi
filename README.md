@@ -1,6 +1,6 @@
 # Basma Ennajimi
 Software Engineering Student @ Concordia University <br>
-Embedded Systems • Web Development • Systems Programming • Game Logic
+Web Development • Systems Programming • Embedded Systems • Game Logic
 
 ## About Me
 I enjoy building projects that connect creativity with engineering, whether it’s full-stack applications, system-level work, or exploring lower-level concepts.

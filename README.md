@@ -1,5 +1,5 @@
 # Basma Ennajimi
-Software Engineering Student @ Concordia University
+Software Engineering Student @ Concordia University <br>
 Embedded Systems • Web Development • Systems Programming • Game Logic
 
 ## About Me
@@ -46,7 +46,7 @@ Athlete Stats Analyzer (Python)
 - Small game logic prototypes
 
 ## Connect
-LinkedIn: http://linkedin.com/in/basma-ennajimi-a67199289
+LinkedIn: http://linkedin.com/in/basma-ennajimi-a67199289 <br>
 Open to collaborating on creative engineering ideas or cool technical projects. 🚀
 
 ## Fun Fact
